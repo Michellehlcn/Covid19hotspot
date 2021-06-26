@@ -1,8 +1,8 @@
 const config = {
   style: "mapbox://styles/mapbox/light-v10",
   accessToken:
-    "pk.eyJ1IjoibWFwYm94LWNvbW11bml0eSIsImEiOiJja2tkN21jcjAwMG51MnBxdHAxemdueGpzIn0.e0IzLkytGq4pcGGieP8KNA",
-  CSV: "./Sample_Data.csv",
+    "pk.eyJ1IjoibWljaGVsbGVobGNuIiwiYSI6ImNrb2tuczRsNjA1c3AycHJ6M25oZ3dwOTkifQ.PwztYmGkX406GWClPKsOyg",
+  CSV: "./Data.csv",
   center: [-120.234, 47.398],
   zoom: 6,
   title: "Replace with your title",
