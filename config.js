@@ -2,7 +2,7 @@ const config = {
   style: "mapbox://styles/mapbox/light-v10",
   accessToken:
     "pk.eyJ1IjoibWljaGVsbGVobGNuIiwiYSI6ImNrb2tuczRsNjA1c3AycHJ6M25oZ3dwOTkifQ.PwztYmGkX406GWClPKsOyg",
-  CSV: "./Data.csv",
+  CSV: "https://docs.google.com/spreadsheets/d/1JE7eJPzz_QHsYR0Xm2z_cuOwX6WH2fcvYMB27_iKxjE/gviz/tq?tqx=out:csv&sheet=Sheet1",
   center: [-120.234, 47.398],
   zoom: 6,
   title: "Replace with your title",
