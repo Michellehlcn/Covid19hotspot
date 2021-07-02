@@ -69,3 +69,4 @@ const config = {
     },
   ],
 };
+map.addControl(new mapboxgl.NavigationControl());
