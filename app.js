@@ -407,7 +407,6 @@ geocoder.on("result", function (ev) {
 
 map.on("load", function () {
   map.addControl(geocoder, "top-right");
-  
 
   // csv2geojson - following the Sheet Mapper tutorial https://www.mapbox.com/impact-tools/sheet-mapper
   console.log("loaded");
@@ -509,13 +508,3 @@ function transformRequest(url, resourceType) {
     url: isMapboxRequest ? url.replace("?", "?pluginName=finder&") : url,
   };
 }
-
-
- 
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-
-
-
-
