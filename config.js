@@ -67,5 +67,5 @@ const config = {
         "Youth: Teen",
       ],
     },
-  ],
+  ]
 }
