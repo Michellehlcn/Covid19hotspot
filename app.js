@@ -509,7 +509,11 @@ function transformRequest(url, resourceType) {
   };
 }
 
-
+map.addControl(new mapboxgl.NavigationControl());
+ 
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
 
 
 
