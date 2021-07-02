@@ -516,4 +516,4 @@ function googleTranslateElementInit() {
 }
 
 
-map.addControl(new mapboxgl.NavigationControl());
+
