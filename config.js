@@ -4,7 +4,7 @@ const config = {
     "pk.eyJ1IjoibWljaGVsbGVobGNuIiwiYSI6ImNrb2tuczRsNjA1c3AycHJ6M25oZ3dwOTkifQ.PwztYmGkX406GWClPKsOyg",
   CSV: "https://docs.google.com/spreadsheets/d/1X1R3EQTR2JdP7kxGO0W0AvHf6fOzn3ZP-TN9HWsPaoc/gviz/tq?tqx=out:csv&sheet=Sheet1",
   center: [106.6957867, 10.78016587],
-  zoom: 10,
+  zoom: 14,
   title: "CÁC ĐIỂM PHONG TỎA ",
   description:
     "Những người mắc bệnh COVID-19 đã có một loạt các triệu chứng được báo cáo - từ các triệu chứng nhẹ đến bệnh nghiêm trọng. Các triệu chứng có thể xuất hiện 2-14 ngày sau khi phơi nhiễm với vi-rút. Bất cứ ai cũng có thể có các triệu chứng từ nhẹ đến nghiêm trọng. Gọi HOTLINE COVID-19 08 6957 7133 hoặc cho cơ sở cấp cứu địa phương. Danh sach cập nhật ngày 05/7/2021 (hcdc.vn)",
