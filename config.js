@@ -13,18 +13,10 @@ const config = {
   filters: [
     {
       type: "dropdown",
-      title: "Địa điểm: ",
-      columnHeader: "City",
-      listItems: [
-        "Hồ Chí Minh"
-      ],
-    },
-    {
-      type: "checkbox",
       title: "Quận: ",
-      columnHeader: "District", // Case sensitive - must match spreadsheet entry
+      columnHeader: "District",
       listItems: [
-        "Quận 1",
+         "Quận 1",
         "Quận 3",
         "Quận 4",
         "Quận 5",
@@ -44,7 +36,16 @@ const config = {
         "Quận Phú Nhuận",
         "Quận Tân Bình",
          "Quận Tân Phú",
-         "Quận Thủ Đức"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+         "Quận Thủ Đức
+        
+      ],
+    },
+    {
+      type: "checkbox",
+      title: "Địa điểm: ",
+      columnHeader: "City", // Case sensitive - must match spreadsheet entry
+      listItems: [
+      "Hồ Chí Minh"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       
