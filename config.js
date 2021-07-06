@@ -3,8 +3,8 @@ const config = {
   accessToken:
     "pk.eyJ1IjoibWljaGVsbGVobGNuIiwiYSI6ImNrb2tuczRsNjA1c3AycHJ6M25oZ3dwOTkifQ.PwztYmGkX406GWClPKsOyg",
   CSV: "https://docs.google.com/spreadsheets/d/1X1R3EQTR2JdP7kxGO0W0AvHf6fOzn3ZP-TN9HWsPaoc/gviz/tq?tqx=out:csv&sheet=Sheet1",
-  center: [108.224, 16.0748],
-  zoom: 6,
+  center: [106.6957867, 10.78016587],
+  zoom: 14,
   title: "Replace with your title",
   description:
     "Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.",
