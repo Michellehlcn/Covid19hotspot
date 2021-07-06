@@ -36,8 +36,7 @@ const config = {
         "Quận Phú Nhuận",
         "Quận Tân Bình",
         "Quận Tân Phú",
-        "Quận Thủ Đức
-        
+        "Quận Thủ Đức" 
       ],
     },
     {
