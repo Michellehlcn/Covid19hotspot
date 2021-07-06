@@ -41,9 +41,30 @@ const config = {
     },
     {
       type: "checkbox",
-      title: "Devices available: ",
-      columnHeader: "Devices_available", // Case sensitive - must match spreadsheet entry
-      listItems: ["Computer", "Wi-Fi", "Adaptive Laptops"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      title: "Quận: ",
+      columnHeader: "District", // Case sensitive - must match spreadsheet entry
+      listItems: [
+        "Quận 1",
+        "Quận 3",
+        "Quận 4",
+        "Quận 5",
+        "Quận 6",
+        "Quận 7",
+        "Quận 8",
+        "Quận 10",
+        "Quận 11",
+         "Quận 12",
+        "Quận Bình Chánh",
+        "Quận Bình Tân",
+        "Quận Bình Thạnh",
+        "Quận Củ Chi",
+        "Quận Gò Vấp",
+        "Quận Hóc Môn",
+        "Quận Nhà Bè",
+        "Quận Phú Nhuận",
+        "Quận Tân Bình",
+         "Quận Tân Phú",
+         "Quận Thủ Đức"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       type: "dropdown",
