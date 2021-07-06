@@ -43,8 +43,7 @@ const config = {
       type: "checkbox",
       title: "Địa điểm: ",
       columnHeader: "City", // Case sensitive - must match spreadsheet entry
-      listItems: [
-      "Hồ Chí Minh"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      listItems: ["Hồ Chí Minh"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       
