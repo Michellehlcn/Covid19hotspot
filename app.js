@@ -508,3 +508,10 @@ function transformRequest(url, resourceType) {
     url: isMapboxRequest ? url.replace("?", "?pluginName=finder&") : url,
   };
 }
+
+map.addControl(
+new MapboxDirections({
+accessToken: mapboxgl.accessToken
+}),
+'top-left'
+);
