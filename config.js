@@ -7,7 +7,7 @@ const config = {
   zoom: 10,
   title: "Replace with your title",
   description:
-    "Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.",
+    "CÁC ĐIỂM PHONG TỎA TẠI TP.HỒ CHÍ MINH You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.",
   sideBarInfo: ["Location_Name", "Address", "Phone"],
   popupInfo: ["Location_Name"],
   filters: [
