@@ -13,30 +13,10 @@ const config = {
   filters: [
     {
       type: "dropdown",
-      title: "Quận: ",
-      columnHeader: "District",
+      title: "Địa điểm: ",
+      columnHeader: "City",
       listItems: [
-        "Quận 1",
-        "Quận 3",
-        "Quận 4",
-        "Quận 5",
-        "Quận 6",
-        "Quận 7",
-        "Quận 8",
-        "Quận 10",
-        "Quận 11",
-         "Quận 12",
-        "Quận Bình Chánh",
-        "Quận Bình Tân",
-        "Quận Bình Thạnh",
-        "Quận Củ Chi",
-        "Quận Gò Vấp",
-        "Quận Hóc Môn",
-        "Quận Nhà Bè",
-        "Quận Phú Nhuận",
-        "Quận Tân Bình",
-         "Quận Tân Phú",
-         "Quận Thủ Đức"
+        "Hồ Chí Minh"
       ],
     },
     {
@@ -71,15 +51,4 @@ const config = {
     },
   ],
 };
-document
-.getElementById('buttons')
-.addEventListener('click', function (event) {
-var language = event.target.id.substr('button-'.length);
-// Use setLayoutProperty to set the value of a layout property in a style layer.
-// The three arguments are the id of the layer, the name of the layout property,
-// and the new property value.
-map.setLayoutProperty('country-label', 'text-field', [
-'get',
-'name_' + language
-]);
-});
+
