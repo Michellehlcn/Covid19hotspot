@@ -67,19 +67,7 @@ const config = {
          "Quận Thủ Đức"], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
-      type: "dropdown",
-      title: "Clients: ",
-      columnHeader: "Clients",
-      listItems: [
-        "Adults",
-        "Disabled",
-        "Homeless",
-        "Immigrants/Refugees",
-        "Low Income",
-        "Seniors",
-        "Youth: Pre-teen",
-        "Youth: Teen",
-      ],
+      
     },
   ],
 };
