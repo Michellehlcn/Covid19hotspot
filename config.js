@@ -16,7 +16,7 @@ const config = {
       title: "Quận: ",
       columnHeader: "District",
       listItems: [
-         "Quận 1",
+        "Quận 1",
         "Quận 3",
         "Quận 4",
         "Quận 5",
@@ -25,7 +25,7 @@ const config = {
         "Quận 8",
         "Quận 10",
         "Quận 11",
-         "Quận 12",
+        "Quận 12",
         "Quận Bình Chánh",
         "Quận Bình Tân",
         "Quận Bình Thạnh",
@@ -35,8 +35,8 @@ const config = {
         "Quận Nhà Bè",
         "Quận Phú Nhuận",
         "Quận Tân Bình",
-         "Quận Tân Phú",
-         "Quận Thủ Đức
+        "Quận Tân Phú",
+        "Quận Thủ Đức
         
       ],
     },
