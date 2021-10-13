@@ -1,4 +1,6 @@
 # covid19hotspot
+https://michellehlcn.github.io/covid19hotspot/
+
 ## Dislaimer
 This is my personal work with no affiliation to any organisation. Data was based on the website: hcdc.vn. Since the number of Covid19 cases has seen risen within Hochiminh City and in Vietnam as a whole, the occurrence of a case of infection in the community with a more transmissible variant of SARS-CoV-2 (Delta variant) and opportunities for wide community exposure, I devoted myself to this page in order to help local folks in navigation of hotspots, bringing out any necessary restriction. It is an urgent task and absolutely needs everyone collaboration.
 
